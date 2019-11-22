@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Francis",
+      "email": "francis.xavera@bombayworks.se"
+    },
+    {
+      "id": 2,
+      "name": "Alister",
+      "endTime": "alister@bombayworks.se"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "name": "Chole"
+    },    {
+      "id": 2,
+      "name": "Chicken Biriyani"
+    },    {
+      "id": 3,
+      "name": "Jain paav baji"
+    }
+    ],
+  "orders": [
+    {
+      "id": 1,
+      "orderName": "Chole",
+      "qty": 0.5,
+      "orderBy": "Francis",
+      "date": "2019-05-29 09:30:00T02:00"
+    },    {
+      "id": 2,
+      "orderName": "Chicken",
+      "qty": 1,
+      "orderBy": "Francis",
+      "date": "2019-05-29 09:30:00T02:00"
+    },    {
+      "id": 3,
+      "orderName": "Gulab jamoon",
+      "qty": 2,
+      "orderBy": "Neil",
+      "date": "2019-05-29 09:30:00T02:00"
+    }
+    ],
+  "profile": {
+    "name": "typicode"
+  }
+}
